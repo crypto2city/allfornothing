@@ -1,0 +1,2 @@
+# allfornothing
+allfornothing
